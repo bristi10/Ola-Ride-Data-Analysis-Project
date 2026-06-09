@@ -3,7 +3,7 @@ Objective
 
 Analyze Ola ride data to understand booking patterns, cancellations, revenue trends, and customer behavior to improve ride efficiency and business decisions.
 
-🛠 Tools Used
+##🛠 Tools Used
 Python (Pandas, NumPy)
 SQL (if used)
 Power BI (Dashboard)
