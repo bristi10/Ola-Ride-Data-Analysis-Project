@@ -1,44 +1,39 @@
-# Ola-Ride-Data-Analysis-Project
-Objective
+# 🚖 Ola Ride Insights
 
-Analyze Ola ride data to understand booking patterns, cancellations, revenue trends, and customer behavior to improve ride efficiency and business decisions.
+## 📌 Project Overview
+Ola Ride Insights is a data analytics project focused on analyzing ride-sharing data to extract business insights.
 
-##🛠 Tools Used
-Python (Pandas, NumPy)
-SQL (if used)
-Power BI (Dashboard)
-Streamlit (Interactive Web App)
-📊 Dashboards & Applications
-📌 Power BI Dashboard
+## 🛠️ Technologies Used
+- SQL
+- Python (Pandas, NumPy)
+- Power BI
+- Streamlit
 
-(Add screenshot here)
+## 🎯 Key Features
+- Ride volume analysis
+- Booking status breakdown
+- Revenue insights
+- Customer & driver ratings analysis
+- Cancellation reason analysis
 
-Shows:
+## 📊 Skills Gained
+- SQL querying
+- Data preprocessing
+- Power BI dashboards
+- Streamlit app development
+- Business intelligence insights
 
-Booking trends
-Revenue analysis
-Cancellation patterns
-Vehicle performance
-📌 Streamlit App
+## 🚀 Objective
+To analyze ride-sharing data and generate actionable insights for improving business performance and customer experience.
 
-(Add screenshot + link)
+## 📁 Project Structure
+Ola_Ride
+│
+├── ola_dataset.csv
+├── ola_dashboard.pbix
+├── streamlit_app.py
+├── streamlit_powerbi.py
+└── README.md
 
-Interactive app features:
-
-Filter rides by date/vehicle
-View key metrics
-Dynamic charts
-📈 Key Insights
-Peak booking hours identified as ___
-Most cancelled rides due to ___
-Top revenue-generating vehicle type is ___
-Average ride distance is ___
-Customer demand is highest in ___ time period
-🎯 Business Impact
-
-This project helps:
-
-Improve driver allocation
-Reduce ride cancellations
-Optimize pricing strategy
-Increase overall revenue efficiency
+## 👩‍💻 Author
+Bhargabi Manna
