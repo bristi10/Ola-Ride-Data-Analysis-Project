@@ -4,6 +4,9 @@ Interactive dashboard built using Streamlit and Power BI to analyze Ola ride dat
 ## 📌 Project Overview
 Ola Ride Insights is a data analytics project focused on analyzing ride-sharing data to extract business insights.
 
+## Live Demo app
+Streamlit_link:https://ola-ride-data-analysis-project-xhwzhtcdzxa8wdv8hb4uuf.streamlit.app/
+
 ## 🛠️ Technologies Used
 - SQL
 - Python (Pandas, NumPy)
